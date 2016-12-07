@@ -1,0 +1,12 @@
+<!--about.wxml-->
+<view class="page_bd">
+    <view class="text"><text style="font-weight: 900; font-size: 1.5em;">WeToast</text></view>
+	<view class="text">微信小程序toast增强插件</view>
+
+</view>
+<view class="footer footer_fixed-bottom">
+    <view class="footer__links">
+        <text class="footer__link" bindtap="back">Home</text>
+    </view>
+    <view class="footer__text">getweapp.com</view>
+</view>
